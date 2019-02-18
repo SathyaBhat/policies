@@ -1,6 +1,6 @@
-# Triangle DevOps Code of Conduct
+# DevOps'ish Code of Conduct
 
-Triangle DevOps is dedicated to providing a harassment-free community experience
+DevOps'ish is dedicated to providing a harassment-free community experience
 for everyone, regardless of gender, gender identity and expression, sexual
 orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment of community participants in any form.
@@ -52,8 +52,8 @@ our meetings and events and participating in our online spaces. People like you
 make them all better.
 
 * Talking to the on-site organizers or organizers, who will introduce themselves
-  at the beginning any event
-* Emailing the organizing team (triangledevops at gmail.com)
+  at the beginning of any event
+* Emailing the organizing team (chris at devopsish dot com)
 
 When taking a report in person, our staff will work to ensure you are safe and
 cannot be overheard. You won't be asked to confront anyone and we won't tell
